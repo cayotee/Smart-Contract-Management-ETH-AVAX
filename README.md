@@ -1,12 +1,30 @@
-# Starter Next/Hardhat Project
+# Ethereum ATM Decentralized Application (DApp)
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+## Description
 
-1. Inside the project directory, in the terminal type: npm i
-2. Open two additional terminals in your VS code
-3. In the second terminal type: npx hardhat node
-4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-5. Back in the first terminal, type npm run dev to launch the front-end.
+The Ethereum ATM DApp is a decentralized application built on the Ethereum blockchain that allows users to interact with an ATM smart contract. Users can deposit and withdraw Ether (ETH) from their Ethereum accounts using this application.
 
-After this, the project will be running on your localhost. 
-Typically at http://localhost:3000/
+## Getting Started
+
+### Installing
+
+* Clone the repository.
+* Install dependencies using `npm install`.
+
+### Executing program
+
+* Run the DApp locally using `npm start`.
+* Connect your Ethereum wallet (e.g., MetaMask).
+* Interact with the ATM smart contract by depositing or withdrawing Ether.
+
+## Help
+
+For any issues or questions, please open an issue on GitHub.
+
+## Author
+
+- [Arjay Ical](https://github.com/cayotee)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
